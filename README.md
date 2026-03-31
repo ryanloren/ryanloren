@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ryan
 
-Senior Frontend Engineer with 14+ years of experience building scalable web applications using React and TypeScript.
+Senior Frontend Engineer with 10+ years of experience building scalable web applications using React and TypeScript.
 
 I focus on creating maintainable UI architectures, reusable component systems, and accessible user experiences in enterprise environments.
 
