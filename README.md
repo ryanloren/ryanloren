@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Ryan
 
-<!--
-**ryanloren/ryanloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer with 14+ years of experience building scalable web applications using React and TypeScript.
 
-Here are some ideas to get you started:
+I focus on creating maintainable UI architectures, reusable component systems, and accessible user experiences in enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I specialize in
+
+* React + TypeScript applications
+* Design systems and component libraries
+* Frontend architecture and performance optimization
+* Translating Figma designs into high-quality, accessible UI
+* Building stable, user-focused interfaces in complex domains
+
+---
+
+### 🛠 Tech Stack
+
+React • TypeScript • Next.js • Redux • Jotai
+Storybook • React Testing Library • Jest
+HTML • CSS • Tailwind
+
+---
+
+### 🎯 What I’m looking for
+
+* Frontend-focused roles (React / TypeScript)
+* Design system or platform-oriented work
+* Healthcare, government, or enterprise domains
+* Remote, async-friendly teams with strong engineering culture
+
+---
+
+### 🔗 Links
+
+* LinkedIn: [Ryan Grayer](https://www.linkedin.com/in/ryan-grayer-1b357183/)
+
+---
