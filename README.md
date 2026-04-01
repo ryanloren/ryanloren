@@ -19,8 +19,8 @@ I focus on creating maintainable UI architectures, reusable component systems, a
 ### 🛠 Tech Stack
 
 React • TypeScript • Next.js • Redux • Jotai
-Storybook • React Testing Library • Jest
-HTML • CSS • Tailwind
+• Storybook • React Testing Library • Jest
+• HTML • CSS • Tailwind • Material UI • Ant Design
 
 ---
 
