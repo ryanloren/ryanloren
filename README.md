@@ -28,7 +28,6 @@ React • TypeScript • Next.js • Redux • Jotai
 
 * Frontend-focused roles (React / TypeScript)
 * Design system or platform-oriented work
-* Healthcare, government, or enterprise domains
 * Remote, async-friendly teams with strong engineering culture
 
 ---
